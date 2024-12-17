@@ -10,7 +10,7 @@
     },
     "include": [
       "index.ts",
-      "libfile.ts"                           
+      "timepulse.ts"                           
     ],
     "exclude": [
       "node_modules"                          
